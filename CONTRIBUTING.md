@@ -8,6 +8,8 @@
 
 ### Creating an Issue
 
+---
+
 Before **creating** an Issue for `features`/`bugs`/`improvements` please follow these steps:
 
 > _Note: this does not apply to creating/editing your profile_
